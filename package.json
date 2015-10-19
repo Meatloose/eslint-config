@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config",
+  "version": "0.1.0",
+  "description": "ESLint config from Airbnb",
+  "main": "",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "eslint",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Meatloose",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "4.1.3",
+    "eslint": "1.5.1",
+    "eslint-plugin-react": "3.4.2",
+    "react": "0.13.3"
+  }
+}
